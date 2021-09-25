@@ -10,13 +10,12 @@ Below, we have sourced some suggested datasets suitable for final projects, incl
 |*Intermediate Datasets* |
 | [Option 1: Amazon Pricing Data](#option1) |
 | [Option 2: Insurance Marketplace Data](#option2) | 
-| [Option 3: Instacart Order Data](#option3) | 
-| [Option 4: Loan Data](#option4) | 
+| [Option 3: Loan Data](#option3) | 
 | *Advanced Datasets* |
-| [Option 5: Fuel Economy Data](#option5) | 
-| [Option 6: Craft Beer Data](#option6) | 
-| [Option 7: Trump Tweet Data](#option7) | 
-| [Option 8: Choose Your Own](#option8) |
+| [Option 4: Fuel Economy Data](#option4) | 
+| [Option 5: Craft Beer Data](#option5) | 
+| [Option 6: Policing Data](#option6) | 
+| [Option 8: Choose Your Own](#option7) |
 
 > Note: Alternatively, instructors may allow students to choose their own final project topic and dataset. Students should clearly indicate this preference and discuss their choice(s) with instructors ahead of time.
 
